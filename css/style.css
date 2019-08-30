@@ -1,0 +1,132 @@
+.sajal {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-left: 2530px;
+    
+}    
+<!--				
+
+        #colorlib-aside .author-img {
+            width: 150px;
+            height: 150px;
+            margin: 0 auto;
+            margin-bottom: 30px;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -ms-border-radius: 50%;
+            border-radius: 50%;
+        }
+        .author-img {
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            position: relative;
+        }-->
+.carousel-item img{
+    width: 80px;
+    height: 350px;
+    
+}
+.menu {
+    border: none;
+}
+.naz {
+    width: 50;
+    height: 70px;
+}
+.sajal1 {
+    flex: 1;
+    display: inline;
+}
+
+.sajal2 {
+    flex: 1;
+}
+
+.heading-meta { 
+    margin-bottom: 15px;
+    display: block;
+   
+    text-transform: uppercase;
+    color: #999999;
+    font-weight: 300;
+    letter-spacing: 5px;
+
+}
+.heading-meta2 {
+     
+    margin-bottom: 25px;
+    display: block;
+   
+    text-transform: uppercase;
+    color: #03386C;
+    font-weight: 500;
+    letter-spacing: 10px;
+
+}
+.grid-item{
+    float: left;
+     width: 30%;
+    margin: 10px;
+}
+.text {
+    width: 300px;
+    border: none;
+  float: left;
+}
+.name {
+    width: 350px;
+    height: 50px;
+    margin-top: 10px;
+    border: none;
+    
+}
+.message {
+    height: 100px;
+    width: 350px;
+    margin-top: 10px;
+    border: none;
+}
+#carouselExampleIndicators li{
+    width: 15px;
+    height: 5px;
+    border-radius: 50%
+    
+}
+
+.button-group button{
+    background-color: #010101;
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    margin: 0 5px;
+    margin-top: 20px;
+}
+.button-group button:hover,.button-group button.active{
+    background-color: #87d37c;
+}
+
+
+
+
+.nazrul {
+ color: #87d37c;
+    font-family:cursive;
+    font-size: 40px;
+}
+
+.designer {
+    margin-bottom: 120px;
+    font-family:fantasy;
+    color:orangered;s
+    font-size: 40px;
+}
+
+.designer2 {
+    margin-bottom: 50px;
+    font-family:cursive;
+    font-size: 30px;
+    
+}
